@@ -1,4 +1,4 @@
-# GameTIC
+
 <h2 align="center">TicTacToe</h2>
 <div align="center">
 <p>TicTacToe Game created using HTML, CSS and JavaScript.</p>
